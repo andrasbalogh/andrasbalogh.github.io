@@ -9,7 +9,7 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 [Link to another page](./another-page.html).
 
 
-[Bellabeat](https://andrasbalogh.github.io/Bellabeat/)
+<a href="https://andrasbalogh.github.io/Bellabeat" target="_blank">Bellabeat project</a>
 
 There should be whitespace between paragraphs.
 
